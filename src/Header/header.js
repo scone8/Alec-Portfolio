@@ -1,5 +1,4 @@
-import headerimg from '../images/header-img.jpg';
-import './header.css';
+import headerimg from '../images/header-img2.png';
 import Typing from 'react-typing-animation'; 
 
 function Header() {
