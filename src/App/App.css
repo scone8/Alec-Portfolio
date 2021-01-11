@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro');
+
+.App {
+  text-align: center;
+  height: 100vh;
+}
+
+.App-header {
+  height:100%;
+  padding-right:5%;
+  padding-left:5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 3vmin);
+  color: white;
+  vertical-align: middle;
+  font-family: 'Source Code Pro', monospace;  
+  /* Center and scale the image nicely */
+  background: rgba(0, 0, 0, 0.5);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.App-link {
+  color: #61dafb;
+}
